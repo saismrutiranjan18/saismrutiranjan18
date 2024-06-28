@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sai Smruti
 - 👀 I’m interested in Full Stack Developer
-- 🌱 I’m currently learning Express
+- 🌱 I’m currently learning MongoDB
 - 💞️ I’m looking to collaborate on WebDevelopment Projects
 - 📫 How to reach me, You can reache me through LinkedIn
 - 😄 Pronouns: ...
