@@ -1,10 +1,10 @@
 - 👋 Hi, I’m Sai Smruti
 - 👀 I’m interested in Full Stack Developer
-- 🌱 I’m currently learning MongoDB
+- 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on WebDevelopment Projects
 - 📫 How to reach me, You can reache me through LinkedIn
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: You can call me Sai
+- ⚡ Fun fact: My laptop is my constant companion
 
 <!---
 saismrutiranjan18/saismrutiranjan18 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
