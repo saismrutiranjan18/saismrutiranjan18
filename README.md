@@ -19,6 +19,8 @@
 
 - ⚡ Fun fact **My laptop is my constant companion**
 
+- <br><br>
+
 <p align="center">
   <h1 align="center">⚙️ Languages and Tools</h1>
 </p>
@@ -85,7 +87,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saismrutiranjan18&theme=github_dark" alt="saismrutiranjan18" /></p>
 
-
+<br><br>
  <p align="center">
   <h1 align="center">Summary Of My Github Live Graph</h1>
 </p>  
@@ -102,6 +104,6 @@
 </p>
 
 <hr>
-<p align="left"><img src="https://komarev.com/ghpvc/?username=Sai Smruti&color=red" alt="Total Github views" />
+
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1283D1&height=80&section=footer"/>
