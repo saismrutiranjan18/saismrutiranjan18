@@ -100,7 +100,7 @@
 </div>
 
 <p align="center">
-  <b>Thanks for your visit to my profile! If you appreciate my work.😊</b>
+  <b>Thanks for your visit to my profile!😊</b>
 </p>
 
 <hr>
