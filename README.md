@@ -19,7 +19,7 @@
 
 - ⚡ Fun fact **My laptop is my constant companion**
 
-- <br><br>
+  <br><br>
 
 <p align="center">
   <h1 align="center">⚙️ Languages and Tools</h1>
