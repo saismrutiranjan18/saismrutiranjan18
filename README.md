@@ -1,3 +1,5 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6499E9&height=90&section=header"/>
+
 <h1 align="center">Hi 👋, I'm Sai Smruti</h1>
 <h3 align="center">I’m interested in Full Stack Developer</h3>
 
@@ -96,5 +98,10 @@
 </div>
 
 <p align="center">
-  <h1 align="center">Thanks for checking out my GitHub Profile! 🙏</h1>
-</p>  
+  <b>Thanks for your visit to my profile! If you appreciate my work.😊</b>
+</p>
+
+<hr>
+<p align="left"><img src="https://komarev.com/ghpvc/?username=Sai Smruti&color=red" alt="Total Github views" />
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1283D1&height=80&section=footer"/>
