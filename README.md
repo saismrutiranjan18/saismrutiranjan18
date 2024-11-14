@@ -33,6 +33,12 @@
 
  <br><br>
 
+## 📊 _GSSoC'24 Stats:_
+<img alt= "gssoc 2024 stats" width="1020" height="400" src="https://github.com/vishal02527/vishal02527/blob/main/GSSoC24_Stats.png" />
+
+<br><br>
+ 
+
 <p align="center">
   <h1 align="center">⚙️ Languages and Tools</h1>
 </p>
