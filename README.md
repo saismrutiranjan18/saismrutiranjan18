@@ -33,7 +33,7 @@
 
  <br><br>
 
-## 📊 _GSSoC'24 Stats:_
+## 📊 GSSoc'24 Extended
 <img alt= "gssoc 2024 stats" width="1020" height="400" src="https://github.com/saismrutiranjan18/saismrutiranjan18/blob/main/GSSoC24_Stats.png" />
 
 <br><br>
