@@ -37,7 +37,7 @@
  <br><br>
 
 <p align="center">
-  <h1 align="center">📊 GSSoC'24 Extended Stats </h1>
+  <h1 align="center">📊 GSSoC'24 Extended Stats  </h1>
 </p>
 
 <img alt= "gssoc 2024 stats" width="1020" height="400" src="https://github.com/saismrutiranjan18/saismrutiranjan18/blob/main/GSSoC24_Stats.png" />
