@@ -22,7 +22,7 @@
   <br><br>
 
 <p align="center">
-  <h1 align="center">@GSSoC'24 Extended Badges </h1>
+  <h1 align="center">@GSSoC'24 Extended Badges</h1>
 </p>
 
 <div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
