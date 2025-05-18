@@ -66,7 +66,7 @@
 ### Backend Development
 
 | Express | JS | NPM |
-|---------|------|-----|
+|---------|------|------|
 | <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="express" alt="express" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="nodejs" alt="NodeJS" width="55" height="55"/> |
 
 
