@@ -118,7 +118,6 @@
         
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saismrutiranjan18&theme=github_dark)
 
-
 <div id="header" align="center">
   <img src="https://komarev.com/ghpvc/?username=Sai Smruti&style=for-the-badge&color=orange" alt=""/>
 </div>
