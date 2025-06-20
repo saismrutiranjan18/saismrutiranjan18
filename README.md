@@ -1,4 +1,4 @@
-+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6499E9&height=90&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6499E9&height=90&section=header"/>
 
 <h1 align="center">Hi 👋, I'm Sai Smruti</h1>
 <h3 align="center">I’m interested in becoming a Full Stack Developer.   </h3>
