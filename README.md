@@ -20,6 +20,7 @@
 - ⚡ Fun fact **My laptop is my constant companion**
 
   <br><br>
+  
 
 <p align="center">
   <h1 align="center">@GSSoC'24 Extended Badges </h1>
@@ -45,6 +46,10 @@
 [![An image of @saismrutiranjan18's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/saismrutiranjan18)](https://holopin.io/@saismrutiranjan18)
 
 <br><br>
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
+
 <p align="center">
   <h1 align="center">⚙️ Languages and Tools </h1>
 </p>
@@ -85,6 +90,8 @@
 |<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="nodejs" alt="NodeJS" width="55" height="55"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="github"  alt="github" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="vscode"  alt="vscode" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/powershell/powershell-original.svg" title="powershell" alt="powershell" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/windows11/windows11-original-wordmark.svg" title="windows" alt="windows" width="55" height="55"/> |
 </div>
 
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 <br><br>
 
