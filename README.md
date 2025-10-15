@@ -20,6 +20,16 @@
 - ⚡ Fun fact **My laptop is my constant companion**
 
   <br><br>
+
+<p align="center">
+  <h1 align="center"> 🌐 Hacktoberfest'25 </h1>
+</p>
+
+[![An image of @saismrutiranjan18's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/saismrutiranjan18)](https://holopin.io/@saismrutiranjan18)
+
+<br><br>
+
+  
   
 
 <p align="center">
@@ -37,13 +47,7 @@
 
  <br><br>
 
-<p align="center">
-  <h1 align="center"> 🌐 Hacktoberfest'25 </h1>
-</p>
 
-[![An image of @saismrutiranjan18's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/saismrutiranjan18)](https://holopin.io/@saismrutiranjan18)
-
-<br><br>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
