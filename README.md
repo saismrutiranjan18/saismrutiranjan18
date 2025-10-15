@@ -38,10 +38,8 @@
  <br><br>
 
 <p align="center">
-  <h1 align="center">📊 GSSoC'24 Extended & Aperture 2.0 Stats  </h1>
+  <h1 align="center"> 🌐 Hacktoberfest'25 </h1>
 </p>
-
-<img alt= "gssoc 2024 stats" width="1020" height="400" src="https://github.com/saismrutiranjan18/saismrutiranjan18/blob/main/GSSoC24_Stats.png" />
 
 [![An image of @saismrutiranjan18's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/saismrutiranjan18)](https://holopin.io/@saismrutiranjan18)
 
