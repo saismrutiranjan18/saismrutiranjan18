@@ -137,11 +137,10 @@
 
 <hr>
 
-
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/saismrutiranjan18/saismrutiranjan18/output/snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/saismrutiranjan18/saismrutiranjan18/output/snake.svg" />
-  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/saismrutiranjan18/saismrutiranjan18/output/snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="dist/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="dist/snake.svg" />
+  <img alt="github contribution grid snake" src="dist/snake.svg" />
 </picture>
 
 
