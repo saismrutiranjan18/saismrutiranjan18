@@ -8,6 +8,8 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write # <--- ADDED: Grants write permission for the GITHUB_TOKEN
     steps:
       - name: Generate GitHub Contribution Snake
         uses: Platane/snk@v3
