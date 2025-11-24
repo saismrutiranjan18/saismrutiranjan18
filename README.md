@@ -138,4 +138,12 @@
 <hr>
 
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/saismrutiranjan18/saismrutiranjan18/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/saismrutiranjan18/saismrutiranjan18/output/snake.svg" />
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/saismrutiranjan18/saismrutiranjan18/output/snake.svg" />
+</picture>
+
+
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1283D1&height=80&section=footer"/>
