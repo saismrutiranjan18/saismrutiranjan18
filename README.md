@@ -131,11 +131,7 @@
   <img src="https://komarev.com/ghpvc/?username=Sai Smruti&style=for-the-badge&color=orange" alt=""/>
 </div>
 
-<p align="center">
-  <b>Thanks for your visit to my profile!😊</b>
-</p>
 
-<hr>
 
 ## 🐍 GitHub Contribution Snake
 
@@ -146,5 +142,11 @@
 </picture>
 
 
+
+<p align="center">
+  <b>Thanks for your visit to my profile!😊</b>
+</p>
+
+<hr>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1283D1&height=80&section=footer"/>
