@@ -8,70 +8,67 @@ Hey! My name is Sai Smruti Ranjan Das and I'm a Full Stack Developer, currently 
 
 #### Projects
 
-[<img src="https://img.shields.io/badge/-Sprint_Board-0052CC?style=flat&logo=jira&logoColor=white" height="18"/>](https://github.com/saismrutiranjan18) — React 19, TypeScript, localStorage · A JIRA-inspired project management tool with sprint planning, Kanban boards, RBAC, time tracking, issue dependencies, file attachments, and real-time activity updates with full browser-based persistence.
-
-[<img src="https://img.shields.io/badge/-ConvoAI-4285F4?style=flat&logo=google-gemini&logoColor=white" height="18"/>](https://github.com/saismrutiranjan18) — React.js, Node.js, Express.js, MongoDB, Gemini API · AI-powered chat platform utilizing Gemini API for real-time, context-aware, and intelligent user interactions with secure back-end messaging infrastructure.
-
-[<img src="https://img.shields.io/badge/-ConnectNow-00B2FF?style=flat&logo=webrtc&logoColor=white" height="18"/>](https://github.com/saismrutiranjan18) — WebRTC, Node.js, Socket.io · Browser-based HD video conferencing platform with peer-to-peer communication, real-time text chat, screen sharing, media device controls, and dynamic multi-user room creation.
-
-[<img src="https://img.shields.io/badge/-Tiffin_Fusion-FF6B35?style=flat&logo=html5&logoColor=white" height="18"/>](https://github.com/saismrutiranjan18) — HTML, CSS, JavaScript, Bootstrap · Responsive web platform connecting tiffin providers with students and professionals, featuring budget-friendly customizable meal plans and a mobile-first UI.
-
----
-
-#### Experience
-
-**Front-End Engineer Intern** @ MII Foundation – Developers Community, Indore *(Jan 2025 – Apr 2025)*
-Developed 10+ responsive interface modules using React.js and Bootstrap for a mentoring platform. Built reusable UI components with 100% mobile responsiveness and integrated REST APIs.
-
-**Open Source Contributor & Project Admin** @ GSSoC, SSoC, SWoC, Apertre, Hacktoberfest *(Oct 2024 – Present)*
-Managed 50+ pull requests as Project Admin for Social Winter of Code and Apertre 2.0. Contributed to 15+ repositories. Awarded **Super Contributor** at Hacktoberfest 2025.
+| Project | Stack | What it does |
+|---------|-------|--------------|
+| [Sprint Board](https://github.com/saismrutiranjan18) | React 19 · TypeScript · localStorage | JIRA-inspired PM tool. Sprint planning, Kanban, RBAC, time tracking. |
+| [ConvoAI](https://github.com/saismrutiranjan18) | React.js · Node.js · MongoDB · Gemini API | AI chat platform. Real-time, context-aware conversations. |
+| [ConnectNow](https://github.com/saismrutiranjan18) | WebRTC · Node.js · Socket.io | HD video conferencing. Screen sharing, chat, multi-user rooms. |
+| [Tiffin Fusion](https://github.com/saismrutiranjan18) | HTML · CSS · JavaScript · Bootstrap | Connects tiffin providers with students. Mobile-first UI. |
 
 ---
 
 #### Stack
 
-**Languages:** Java, JavaScript (ES6+), TypeScript, HTML5, CSS3, SQL
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=flat&logo=webrtc&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat&logo=socket.io&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 
-**Frontend:** React.js, Next.js, Tailwind CSS, Material UI, Bootstrap
+---
 
-**Backend:** Node.js, Express.js, Socket.io, WebRTC
+#### Experience
 
-**Databases:** MongoDB (Vector Search, RAG, Indexing), MySQL
+**Front-End Engineer Intern** @ MII Foundation, Indore *(Jan 2025 – Apr 2025)*
+10+ responsive modules in React.js · 100% mobile responsiveness · REST API integration
 
-**Tools:** Git, GitHub Actions (CI/CD), Postman (API Expert), AWS, Vercel, Netlify, Render
+**Open Source Contributor & Project Admin** @ GSSoC, SSoC, Apertre, Hacktoberfest *(Oct 2024 – Present)*
+50+ PRs reviewed · 15+ repos contributed · Super Contributor at Hacktoberfest 2025
 
 ---
 
 #### Achievements & Certifications
 
-<img src="https://img.shields.io/badge/-Super_Contributor-FF6719?style=flat&logo=hacktoberfest&logoColor=white" height="18"/> Hacktoberfest 2025
-
-<img src="https://img.shields.io/badge/-Project_Admin-2EA44F?style=flat&logo=github&logoColor=white" height="18"/> SSoC & Apertre 2.0 (2025)
-
-<img src="https://img.shields.io/badge/-MongoDB_Specialist-47A248?style=flat&logo=mongodb&logoColor=white" height="18"/> Vector Search, RAG & Indexing
-
-<img src="https://img.shields.io/badge/-MongoDB_Architect-47A248?style=flat&logo=mongodb&logoColor=white" height="18"/> Relational to Document Modeling & CRUD
-
-<img src="https://img.shields.io/badge/-Postman_API_Expert-FF6C37?style=flat&logo=postman&logoColor=white" height="18"/> Student Expert
-
-<img src="https://img.shields.io/badge/-Apna_College-6A0DAD?style=flat&logo=java&logoColor=white" height="18"/> DSA with Java & Full Stack Development
-
-<img src="https://img.shields.io/badge/-NPTEL-003366?style=flat&logo=python&logoColor=white" height="18"/> Python for Data Science
+| Badge | Details |
+|-------|---------|
+| ![Hacktoberfest](https://img.shields.io/badge/Super_Contributor-FF6719?style=flat&logo=hacktoberfest&logoColor=white) | Hacktoberfest 2025 |
+| ![GitHub](https://img.shields.io/badge/Project_Admin-2EA44F?style=flat&logo=github&logoColor=white) | SSoC & Apertre 2.0 (2025) |
+| ![MongoDB](https://img.shields.io/badge/MongoDB_Specialist-47A248?style=flat&logo=mongodb&logoColor=white) | Vector Search, RAG & Indexing |
+| ![MongoDB](https://img.shields.io/badge/MongoDB_Architect-47A248?style=flat&logo=mongodb&logoColor=white) | Relational to Document Modeling & CRUD |
+| ![Postman](https://img.shields.io/badge/Postman_API_Expert-FF6C37?style=flat&logo=postman&logoColor=white) | Student Expert |
+| ![Apna College](https://img.shields.io/badge/Apna_College-6A0DAD?style=flat&logo=java&logoColor=white) | DSA with Java · Full Stack Development |
+| ![NPTEL](https://img.shields.io/badge/NPTEL-003366?style=flat&logo=python&logoColor=white) | Python for Data Science |
 
 ---
 
 #### Contacts
 
-<img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" height="18"/> [saismrutiranjan](https://www.linkedin.com/in/saismrutiranjan/)
-
-<img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white" height="18"/> [saismrutiranjan18](https://github.com/saismrutiranjan18)
-
-<img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" height="18"/> [@sai_smruti18](https://twitter.com/@sai_smruti18)
-
-<img src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white" height="18"/> [saismrutiranjan18](https://www.leetcode.com/saismrutiranjan18)
-
-<img src="https://img.shields.io/badge/-Gmail-EA4335?style=flat&logo=gmail&logoColor=white" height="18"/> [saismrutiranjan1810@gmail.com](mailto:saismrutiranjan1810@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saismrutiranjan/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/saismrutiranjan18)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/@sai_smruti18)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white)](https://www.leetcode.com/saismrutiranjan18)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:saismrutiranjan1810@gmail.com)
 
 ---
 
-*My laptop is my constant companion*
+<p align="center"><i>My laptop is my constant companion</i></p>
