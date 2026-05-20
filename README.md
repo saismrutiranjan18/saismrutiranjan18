@@ -2,7 +2,7 @@
 
 Hey! My name is Sai Smruti Ranjan Das and I'm a Full Stack Developer, currently pursuing B.Tech in Computer Science at Medi-Caps University (SGPA: 9.13). In love with JavaScript, building things for the web, and solving problems one commit at a time.
 
-#### You can leave me a message via [GitHub Discussion](https://github.com/saismrutiranjan18/saismrutiranjan18/discussions)
+#### You can leave me a message via [GitHub Discussion](https://github.com/saismrutiranjan18/saismrutiranjan18/discussions?discussions_q=category%3AGuestbook)
 
 ---
 
