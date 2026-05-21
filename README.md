@@ -1,6 +1,6 @@
-# Sai Smruti Ranjan Das
+<h3 align="center">Building things on the internet since 2023</h3>
 
-Full Stack Developer · Open to work · Learning AI integrations
+<div align="center">Full Stack Developer · Open to work · Learning AI integrations</div>
 
 #### You can leave me a message via [GitHub Discussion](https://github.com/saismrutiranjan18/saismrutiranjan18/discussions)
 
