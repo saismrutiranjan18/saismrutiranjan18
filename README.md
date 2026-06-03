@@ -13,7 +13,7 @@
 | [Sprint Board](https://github.com/saismrutiranjan18/sprint-board) | React 19 · TypeScript · localStorage | JIRA-inspired PM tool. Sprint planning, Kanban, RBAC, time tracking. |
 | [ConvoAI](https://github.com/saismrutiranjan18/convoai) | React.js · Node.js · MongoDB · Gemini API | AI chat platform. Real-time, context-aware conversations. |
 | [ConnectNow](https://github.com/saismrutiranjan18/connectnow) | WebRTC · Node.js · Socket.io | HD video conferencing. Screen sharing, chat, multi-user rooms. |
-| [Tiffin Fusion](https://github.com/saismrutiranjan18/tiffin-fusion) | HTML · CSS · JavaScript · Bootstrap | Connects tiffin providers with students. Mobile-first UI. |
+| [Tiffin Fusion](https://github.com/saismrutiranjan18/Tiffin_Fusion) | HTML · CSS · JavaScript · Bootstrap | Connects tiffin providers with students. Mobile-first UI. |
 
 ---
 
