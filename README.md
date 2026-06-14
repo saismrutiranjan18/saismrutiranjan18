@@ -10,6 +10,7 @@
 
 | Project | Stack | What it does |
 |---------|-------|--------------|
+| [School Management System](https://github.com/saismrutiranjan18/School-Management-System) | React · Node.js · PostgreSQL · Socket.io | School ERP with RBAC, attendance, exams, fees, messaging, library, transport, analytics, and PDF reports. |
 | [Sprint Board](https://github.com/saismrutiranjan18/sprint-board) | React 19 · TypeScript · localStorage | JIRA-inspired PM tool. Sprint planning, Kanban, RBAC, time tracking. |
 | [ConvoAI](https://github.com/saismrutiranjan18/convoai) | React.js · Node.js · MongoDB · Gemini API | AI chat platform. Real-time, context-aware conversations. |
 | [ConnectNow](https://github.com/saismrutiranjan18/connectnow) | WebRTC · Node.js · Socket.io | HD video conferencing. Screen sharing, chat, multi-user rooms. |
