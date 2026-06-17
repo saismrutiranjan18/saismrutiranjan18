@@ -2,6 +2,10 @@
 
 <div align="center">Full Stack Developer · Open to work · Learning AI integrations</div>
 
+## Who am I
+
+I'm Sai Smruti. I enjoy building things, experimenting with ideas, and sharing what I learn. Most of my time is spent turning concepts into projects and solving problems through technology — trying to build things that can make life a little better, for others and for myself.
+
 #### You can leave me a message via [GitHub Discussion](https://github.com/saismrutiranjan18/saismrutiranjan18/discussions)
 
 ---
