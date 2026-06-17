@@ -43,6 +43,10 @@ I'm Sai Smruti. I enjoy building things, experimenting with ideas, and sharing w
 
 #### Experience
 
+**MERN Developer Intern** · VirtueCloud (via Joie Learning), Indore *(Jun 2026 – Present)*
+Developing full-stack features using the MERN stack in a production environment. Contributing to Career Sakha, a rural-first career platform focused on mentorship, assessments, and personalized career guidance.
+
+
 **Front-End Engineer Intern** · MII Foundation, Indore *(Jan 2025 – Apr 2025)*
 Built 10+ responsive modules in React.js & Bootstrap. Integrated REST APIs across a mentoring platform.
 
